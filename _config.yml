@@ -1,17 +1,16 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
-# baseurl:  # the subpath of your site, e.g. /blog
-# url: "https://sangwonparkk.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: Personal Website of Sangwon Park
+description: The Personal Website of Sangwon Park. Here, you can find Sangwon Park's bio, projects, and contact info.
+# baseurl:  
+# url: "https://sangwonparkk.github.io" 
 
 # User settings
 username: Sangwon Park
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
+user_description: Welcome! I am currently a sophmore student at the University of Hong Kong, studying computer science.
+user_title: Student
+email: swpark@hku.hk
 twitter_username: swpark93
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+github_username:  sangwonparkk
 
 # Google-analytics
 google-analytics:
