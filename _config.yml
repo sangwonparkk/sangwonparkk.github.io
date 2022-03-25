@@ -1,18 +1,18 @@
 # Site settings
 title: Personal Website of Sangwon Park
 description: The Personal Website of Sangwon Park. Here, you can find Sangwon Park's bio, projects, and contact info.
-# baseurl:  
-# url: "https://sangwonparkk.github.io" 
+# baseurl:
+# url: "https://sangwonparkk.github.io"
 
 # User settings
 username: Sangwon Park
-user_description: Welcome! I am currently a sophomore student at the University of Hong Kong, studying computer science.
-user_title: 2nd Year CS Major @ HKU
+user_description: Welcome! I am currently a junior student at the University of Hong Kong, studying computer science.
+user_title: 3rd Year CS Major @ HKU
 email: swpark@hku.hk
-github_username:  sangwonparkk
+github_username: sangwonparkk
 
 # Google-analytics
 google-analytics:
   id: ""
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ["package.json", "src", "node_modules"]
